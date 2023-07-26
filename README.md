@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cuma Tekin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayman&label=Profile%20views&color=0e75b6&style=flat" alt="nayman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayman" alt="nayman" /></a> </p>
-
 - 🔭 I’m currently working on [panates bilgi teknolojileri a.ş.](Business Development Team Lead)
 
 - 🌱 I’m currently learning **react, vue,d3, dax, mquery, graphql**
