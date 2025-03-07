@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **react, vue,d3, dax, mquery, graphql**
 
-- 👯 I’m looking to collaborate on [panates bilgi teknolojileri a.ş.](Sr. Software Support Engineer)
-
 - 💬 Ask me about **react, vue and gsap**
 
 - 📫 How to reach me **cumatekin@gmail.com**
